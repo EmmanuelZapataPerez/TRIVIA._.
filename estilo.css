@@ -1,0 +1,84 @@
+.j{
+    position: absolute;
+    top: 250px;
+    left: 590px;
+    height: 65px;
+    width: 290px;
+    font-size:50px;
+    background-color: #85C1E9 ;
+    border-style: ridge;
+
+}
+.j:hover{
+	background-color: #27AE60;
+	border-radius: 30px;
+}
+.j1:hover{
+	background-color: #2471A3;
+	border-radius: 30px;
+}
+.j2:hover{
+	background-color: #2471A3;
+	border-radius: 30px;
+}
+.j3:hover{
+	background-color: #2471A3;
+	border-radius: 30px;
+}
+.j4:hover{
+	background-color: #2471A3;
+	border-radius: 30px;
+}
+.j1{
+	position: absolute;
+    top: 250px;
+    left: 1000px;
+    height: 65px;
+    width: 350px;
+    font-size:50px;
+    background-color: #76D7C4  ;
+    border-style: ridge;
+}
+.u{
+	
+	width:100%;
+	height:100%;
+	background-color: #C39BD3;
+}
+
+.u1{
+	
+	width:100%;
+	height:940px;
+	background-color: #C39BD3;
+}
+.j2{
+	position: absolute;
+    top: 250px;
+    left: 500px;
+    height: 65px;
+    width: 350px;
+    font-size:50px;
+    background-color: #76D7C4  ;
+    border-style: ridge;
+}
+.j3{
+	position: absolute;
+    top: 700px;
+    left: 1000px;
+    height: 65px;
+    width: 350px;
+    font-size:50px;
+    background-color: #76D7C4  ;
+    border-style: ridge;
+}
+.j4{
+	position: absolute;
+    top: 700px;
+    left: 500px;
+    height: 65px;
+    width: 350px;
+    font-size:50px;
+    background-color: #76D7C4  ;
+    border-style: ridge;
+}
